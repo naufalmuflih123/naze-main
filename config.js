@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['629601124991']
+global.owner = ['6289601124991']
 global.ownernomer = "6289601124991"
 global.premium = ['6289601124991']
 global.packname = 'Sticker  Naufal Muflih'
