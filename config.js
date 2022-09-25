@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['629601124991']
+global.ownernomer = "6289601124991"
+global.premium = ['6289601124991']
+global.packname = 'Sticker  Naufal Muflih'
+global.author = 'Naufal Muflih'
 global.sessionName = 'nazedev'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
